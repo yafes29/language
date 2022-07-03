@@ -19,7 +19,7 @@ const Item = ({ card }) => {
             </div> 
             : 
             
-            <ul>
+            <ul className='list'> 
             {options.map((element,index)=>{
                 return(
                     <li key={index}>  {element}   </li >
