@@ -1,3 +1,3 @@
-[clickme]https://language-card2.netlify.app
+[clickme](https://language-card2.netlify.app)
 
 
